@@ -3,7 +3,7 @@ Codigo do tutorial encontrado na documentação do Scrapy com comentários adici
 
 Olá novamente...
 
-O framework Scrapy é um framework para estração de dados de páginas da web. Semelhante ao que o Google faz para encontrar o seu e a infinidade de sites pela web.
+O framework Scrapy é um framework para extração de dados de páginas da web. Semelhante ao que o Google faz para encontrar o seu e a infinidade de sites pela web.
 No tutorial escrito em Inglês do framework, existe um projeto base de teste.
 Basicamente ele vai numa URL de um site, extrai os dados de citações famosas do site e gera dois HTML's com os dados extraidos.
 
